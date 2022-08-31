@@ -1,0 +1,198 @@
+.info{
+    padding : 0px;
+    align-items: center;
+    position : relative;
+    left : 629.5px;
+    top : 50px;
+
+    /* width : 20%; */
+    
+    /* background-size: 30px; */
+
+    background : linear-gradient(
+        to right,
+       rgb(36,33,36),
+       rgb(36,33,36)16.4%,
+        transparent 1rem,
+        transparent 100%
+    );
+    margin : 0;
+
+    
+}
+
+.imaged{
+    width : 250px;
+    height : 250px;
+    position : relative;
+    left : 630px;
+    top : 75px;
+
+    
+}
+
+
+.info > h3{
+    position : relative;
+    left : 47px;
+    font-size:20px;
+    color : white;
+}
+
+.info > h5{
+    position : relative;
+    left : 77px;
+    bottom : 20px;
+    color : rgb(255, 172, 28);
+
+}
+
+.info > h6{
+    position : relative;
+    left : 72px;
+    bottom : 35px;
+    color : antiquewhite;
+
+}
+
+/* .info > button{
+    position : relative;
+    left : 85px;
+} */
+
+#email{
+    position : relative;
+    left : 25px;
+    bottom: 45px;
+
+}
+
+#email > img{
+    height : 22px;
+    width : 22px;
+    position : relative;
+    right : 3px;
+    top: 3px;
+
+}
+
+#linked{
+    background-color : lightskyblue;
+    position:relative;
+    left:75px;
+    bottom : 45px;
+}
+
+#linked :hover{
+    background-color: rgb(255, 0, 81);
+    transition : 0.7s;
+}
+
+#linked > img{
+    position : relative;
+    top : 4px;
+    right : 3px;
+    height : 18px;
+    width : 18px;
+}
+
+.about{
+    padding-top:2px;
+    padding-left : 25px;
+    padding-right:25px;
+    padding-bottom:10px;
+    position: relative;
+    left : 629.5px;
+    top : 0px;
+
+    /* width : 20%; */
+    
+    /* background-size: 30px; */
+
+    background : linear-gradient(
+        to right,
+       rgb(36,33,36),
+       rgb(36,33,36)16.4%,
+        transparent 1rem,
+        transparent 100%
+    );
+    margin : 0;
+    color: white;
+}
+
+.about > h1{
+    position : relative;
+    font-size:20px;
+    top : 10px;
+}
+
+.about > p{
+    font-size : 12px;
+    max-width : 14%;
+}
+
+.interest{
+    padding-left : 25px;
+    padding-right:25px;
+    padding-bottom:10px;
+    position: relative;
+    left : 629.5px;
+    bottom: 29px;
+
+    /* width : 20%; */
+    
+    /* background-size: 30px; */
+
+    background : linear-gradient(
+        to right,
+       rgb(36,33,36),
+       rgb(36,33,36)16.4%,
+        transparent 1rem,
+        transparent 100%
+    );
+    margin : 0;
+    color: white;
+}
+
+.interest > h1{
+    position : relative;
+    font-size:20px;
+    top : 10px;
+}
+
+.interest > p{
+    font-size : 12px;
+    max-width : 14%;
+}
+
+.footer {
+    padding-left : 25px;
+    padding-right:25px;
+    padding-bottom:5px;
+    position: relative;
+    left : 629.5px;
+    bottom: 40px;
+
+    /* width : 20%; */
+    
+    /* background-size: 30px; */
+
+    background : linear-gradient(
+        to right,
+       black,
+       black 16.4%,
+        transparent 1rem,
+        transparent 100%
+    );
+    margin : 0;
+
+
+}
+
+.footer > img{
+    padding : 20px;
+    height : 20px;
+    width : 20px;
+    position : relative;
+    right : 20px;
+}
